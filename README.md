@@ -1,2 +1,2 @@
 # google-recaptcha
-Google reCAPTCHA API Integration
+Added Google reCAPTCHA to Password Reset
